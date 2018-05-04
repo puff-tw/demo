@@ -2,4 +2,4 @@
 jruby test project 
 
 # test
-test test
+test
